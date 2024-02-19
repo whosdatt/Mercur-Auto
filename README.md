@@ -1,4 +1,4 @@
-# Projects-Yandex
+# Project for Mercur Auto
 
 # Data analyst
 ## Описание:
